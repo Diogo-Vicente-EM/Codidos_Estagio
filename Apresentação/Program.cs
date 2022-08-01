@@ -4,6 +4,7 @@ class Program
     static void Main()
     {
         int escolha = 0;
+
         do
         {        
             Console.WriteLine("(1) Conversão de Tipos");
